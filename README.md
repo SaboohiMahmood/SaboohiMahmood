@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @SaboohiMahmood
-- 👀 I’m interested in Nature inspired Optimization Algorithms
-- 🌱 I’m currently learning Optimizatin
+- 👋 Hi, I’m Saboohi Naeem Ahmed
+  
+- 👀 I’m interested in Nature inspired Optimization Algorithms (NIOA).
+
+- Currently working with Swarm intelligence based algorithms. 
+
+- 🌱 I’m currently learning Optimization.
 
 - 📫 How to reach me -saboohinaeem@gmail.com- on my gmail address
 
